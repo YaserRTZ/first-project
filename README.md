@@ -1,5 +1,5 @@
 # First-project
-this is my first action for learning IT!
+This is my first action for learning IT!
 
 ## Awareness of the way...!
 
